@@ -16,9 +16,8 @@ Native (Linux)
 
 1. git clone https://github.com/andrewozarko/weather-cli
 2. cd weather-cli
-3. cargo install
-4. cargo build --release
-5. cp ./target/release/weather-cli ./weather-cli
+3. cargo build --release
+4. cp ./target/release/weather-cli ./weather-cli
 
 # commands
 
